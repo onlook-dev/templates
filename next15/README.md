@@ -4,7 +4,8 @@
   <img src="src/app/favicon.ico" />
 </p>
 
-This is an [Onlook](https://onlook.dev/) project set up with [Next.js](https://nextjs.org/), and [TailwindCSS](https://tailwindcss.com/).
+This is an [Onlook](https://onlook.dev/) project set up with
+[Next.js](https://nextjs.org/), and [TailwindCSS](https://tailwindcss.com/).
 
 ## Getting Started
 
@@ -19,5 +20,3 @@ pnpm dev
 # or
 bun dev
 ```
-
-Open [http://localhost:3000](http://localhost:3000) in Onlook to see the result.
