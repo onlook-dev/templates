@@ -4,6 +4,7 @@
   "type": "module",
   "private": true,
   "scripts": {
+    "publish": "bun scripts/publish-template.ts",
     "publish:next15": "bun scripts/publish-template.ts next15",
     "publish:all": "bun scripts/publish-all-templates.ts",
     "setup": "bun install && cd next15 && bun install"
